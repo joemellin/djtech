@@ -325,11 +325,11 @@ input {
 /*Buttons Configuration */
 .btn-conf {
 	border-radius: 50px;
-	margin-right: 15px;
-	font-size: 11px;
+	margin-right: 35px;
+	font-size: 21px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
-	padding: 14px 28px 13px 28px;
+	padding: 20px 40px 20px 40px;
 	}
 
 .btn-green {
